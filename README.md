@@ -40,7 +40,9 @@ To ensure Zero-Trust verification, NovaShield utilizes Bayesian probability for 
 ---
 
 ## 🚀 How to Run the NovaShield Demo
-
+This application provides a simulated AWS audit.
 1. **Open a terminal** in your environment (e.g., Codespace or local terminal).  
 2. **Run the demo script** by typing using Bash (```bash) programming language: 
         bash demo.sh
+- The user or reviewer only types `bash demo.sh`  
+- No AWS credentials are needed.
